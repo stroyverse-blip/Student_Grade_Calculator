@@ -8,9 +8,4 @@ def test_Student_Grade_Calculator():
     assert Student_Grade_Calculator(70, 80, 90, 100, 50) == "A"
 
 
-# def test_Student_Grade_Calculator_fail():
-
-#     assert Student_Grade_Calculator(70, 80, 90, 100, 50) == "B"
-
-
 # print(test_Student_Grade_Calculator())
